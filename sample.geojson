@@ -1,0 +1,605 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "live",
+        "availabilityCount": 15,
+        "availabilities": [
+          "65f1ae9839bc6c3c038dcd1a",
+          "65f1aebc9446fd50387e5be5",
+          "65f1aeda9446fd50387e5be8",
+          "65f28c4fb15d3d8807d11807",
+          "65f26d6d47cdf2a753ef48b5",
+          "65f2d09a56350a5e494946aa",
+          "65f736e1e3008e58b8cb4bca",
+          "65f80356acd439e7195a1398",
+          "65f80535acd439e7195a139f",
+          "661cb2f63746b18d4004f8e5",
+          "66223bb553998f28090cecc9",
+          "6625f42086e093111dabd453",
+          "6625f4ab06c161a43b19e22f",
+          "662676619845f385d87e6e32",
+          "663dfa99574483e7840dfe47"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58867,
+          35.1329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "casacde delete : LOC 1",
+        "availabilityCount": 4,
+        "availabilities": [
+          "66276e1ccc4954c5ba8f8755",
+          "6640ab06204749dadfadb935",
+          "6640ebb4204749dadfadb941",
+          "664619991ed1d6991c82cd3c"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.96516,
+          33.39598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "casacde delete : LOC 1",
+        "availabilityCount": 4,
+        "availabilities": [
+          "66276e1ccc4954c5ba8f8755",
+          "6640ab06204749dadfadb935",
+          "6640ebb4204749dadfadb941",
+          "664619991ed1d6991c82cd3c"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.96516,
+          33.39598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "casacde delete : LOC 1",
+        "availabilityCount": 4,
+        "availabilities": [
+          "66276e1ccc4954c5ba8f8755",
+          "6640ab06204749dadfadb935",
+          "6640ebb4204749dadfadb941",
+          "664619991ed1d6991c82cd3c"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.96516,
+          33.39598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "casacde delete : LOC 1",
+        "availabilityCount": 4,
+        "availabilities": [
+          "66276e1ccc4954c5ba8f8755",
+          "6640ab06204749dadfadb935",
+          "6640ebb4204749dadfadb941",
+          "664619991ed1d6991c82cd3c"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.96516,
+          33.39598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "casacde delete : LOC 3",
+        "availabilityCount": 1,
+        "availabilities": [
+          "6640ebb4204749dadfadb941"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.96516,
+          33.39598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "locationName": "Test for api key",
+        "availabilityCount": 1,
+        "availabilities": [
+          "6640b647574483e7840dfe61"
+        ],
+        "isSelected": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59546,
+          41.58855
+        ]
+      }
+    }
+  ]
+}
